@@ -1,0 +1,15 @@
+C:\Users\kzeyn\source\repos\TryParseMethod\TryParseMethod\bin\Debug\net6.0\TryParseMethod.exe
+C:\Users\kzeyn\source\repos\TryParseMethod\TryParseMethod\bin\Debug\net6.0\TryParseMethod.deps.json
+C:\Users\kzeyn\source\repos\TryParseMethod\TryParseMethod\bin\Debug\net6.0\TryParseMethod.runtimeconfig.json
+C:\Users\kzeyn\source\repos\TryParseMethod\TryParseMethod\bin\Debug\net6.0\TryParseMethod.dll
+C:\Users\kzeyn\source\repos\TryParseMethod\TryParseMethod\bin\Debug\net6.0\TryParseMethod.pdb
+C:\Users\kzeyn\source\repos\TryParseMethod\TryParseMethod\obj\Debug\net6.0\TryParseMethod.csproj.AssemblyReference.cache
+C:\Users\kzeyn\source\repos\TryParseMethod\TryParseMethod\obj\Debug\net6.0\TryParseMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzeyn\source\repos\TryParseMethod\TryParseMethod\obj\Debug\net6.0\TryParseMethod.AssemblyInfoInputs.cache
+C:\Users\kzeyn\source\repos\TryParseMethod\TryParseMethod\obj\Debug\net6.0\TryParseMethod.AssemblyInfo.cs
+C:\Users\kzeyn\source\repos\TryParseMethod\TryParseMethod\obj\Debug\net6.0\TryParseMethod.csproj.CoreCompileInputs.cache
+C:\Users\kzeyn\source\repos\TryParseMethod\TryParseMethod\obj\Debug\net6.0\TryParseMethod.dll
+C:\Users\kzeyn\source\repos\TryParseMethod\TryParseMethod\obj\Debug\net6.0\refint\TryParseMethod.dll
+C:\Users\kzeyn\source\repos\TryParseMethod\TryParseMethod\obj\Debug\net6.0\TryParseMethod.pdb
+C:\Users\kzeyn\source\repos\TryParseMethod\TryParseMethod\obj\Debug\net6.0\TryParseMethod.genruntimeconfig.cache
+C:\Users\kzeyn\source\repos\TryParseMethod\TryParseMethod\obj\Debug\net6.0\ref\TryParseMethod.dll
